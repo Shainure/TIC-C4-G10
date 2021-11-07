@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Sprint2</string>
+    <string name="main_titulo">Sprint 2</string>
+    <string name="result_titulo">Resultados</string>
+    <string-array name="opcionesActividades">
+        <item>Sedentario</item>
+        <item>Actividad ligera</item>
+        <item>Actividad moderada</item>
+        <item>Actividad intensa</item>
+        <item>Actividad muy intensa</item>
+    </string-array>
+</resources>
